@@ -4,7 +4,7 @@ Creando una página de blog con Jekyll y GitHub.
 
 ## Preparando la máquina
 
-Esto lo podemos hacer en cualquier máquina, debemos tener instaladas las herramientas de docker y docker-compose.
+Esto lo podemos hacer en cualquier máquina, debemos tener instaladas las herramientas de github, docker y docker-compose.
 
 ## Preparando nuestro repositorio
 
@@ -16,7 +16,7 @@ Con el repositorio creado, lo clonamos en la máquina con la que estamos trabaja
 
 ## Creando nuestro sitio
 
-Cuando se haya clonado entramos dentro y lanzamos el contenedor de Jekyll que nos creará la infraestructura de nuestro blog.
+Cuando se haya clonado entramos y lanzamos el contenedor de Jekyll que nos creará la infraestructura de nuestro blog.
 
 > docker run -it --rm -v "$PWD:/srv/jekyll" jekyll/jekyll jekyll new blog
 
