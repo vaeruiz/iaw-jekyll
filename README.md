@@ -1,4 +1,4 @@
-# Creación de blogs con Jekyll y GutHub Pages
+# Creación de blogs con Jekyll y GitHub Pages
 
 Creando una página de blog con Jekyll y GitHub.
 
