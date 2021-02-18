@@ -59,4 +59,12 @@ Para subir nuestro blog a GutHub y que esté disponible tenemos que hacer git ad
 
 >git push
 
-Después de esto, esperamos un rato a que nuestro blog se configure con todo, cuando esté listo podremos acceder a nuestro blog a través del nombre que hemos puesto en el repositorio.
+Después de esto, esperamos un rato a que nuestro blog se configure con todo, cuando todo esté listo podremos acceder a nuestro blog a través del nombre que hemos puesto en el repositorio.
+
+## Imágenes y recursos multimedia
+
+Todo el contenido multimedia que queramos añadir a nuestros posts debe estar previamente almacenado en un directorio de nuestro repositorio, para adjuntar, por ejemplo, una foto, tenemos que utilizar la url de la foto una vez que esté en el repositorio, ejemplo 
+
+```
+![imagen](https://github.com/vaeruiz/iaw-jekyll/blob/main/imagenes/captura1.png?raw=true)
+```
