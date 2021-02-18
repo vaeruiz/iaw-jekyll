@@ -59,4 +59,4 @@ Para subir nuestro blog a GutHub y que esté disponible tenemos que hacer git ad
 
 >git push
 
-Después de esto, esperamos un rato a que nuestro blog se configure con todo, cuando todo esté listo podremos acceder a nuestro blog a través del nombre que hemos puesto en el repositorio.
+Después de esto, esperamos un rato a que nuestro blog se configure con todo, cuando esté listo podremos acceder a nuestro blog a través del nombre que hemos puesto en el repositorio.
