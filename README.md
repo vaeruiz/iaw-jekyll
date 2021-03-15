@@ -51,7 +51,7 @@ A continuación podemos empezar a redactar el contenido de nuestro post utilizan
 
 ## Publicando nuestro sitio
 
-Para subir nuestro blog a GutHub y que esté disponible tenemos que hacer git add --all, después realizar el commit correspondiente, y finalmente un push.
+Para subir nuestro blog a GitHub y que esté disponible tenemos que hacer git add --all, después realizar el commit correspondiente, y finalmente un push.
 
 >git add --all
 
